@@ -8,7 +8,17 @@ The contents of the repository are:-
 2) Python code in jupyter notebook 3 names part2code_[1655016].ipynb
 3) Report of the above code names part2report_[1655016].pdf
 
-To run the code:-
+To run the code from terminal:-
+In the terminal run;
+
+pipenv shell
+pipenv install jupyter
+pipenv run jupyter notebook
+Install modules using pipenv install module_name
+
+To run the code from google colab :-
 1) Download all the contents of the repository especially the datasets, and unzip the folder on your system.
 2) Upload the file on your google drive.
 3) Open the file with google colab and run the cells to get the required output.
+
+Note:- if the dataset isn't loading please open the raw version of the IMDb datasets and rewrite the url
