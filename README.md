@@ -21,4 +21,4 @@ To run the code from google colab :-
 2) Upload the file on your google drive.
 3) Open the file with google colab and run the cells to get the required output.
 
-Note:- if the dataset isn't loading please open the raw version of the IMDb datasets and rewrite the url
+Note:- if the dataset isn't loading please open the raw version of the IMDb datasets and rewrite the url.
