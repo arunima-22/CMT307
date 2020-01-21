@@ -11,10 +11,10 @@ The contents of the repository are:-
 To run the code from terminal:-
 In the terminal run;
 
-pipenv shell
-pipenv install jupyter
-pipenv run jupyter notebook
-Install modules using pipenv install module_name
+1) pipenv shell
+2) pipenv install jupyter
+3) pipenv run jupyter notebook
+4) Install modules using pipenv install module_name
 
 To run the code from google colab :-
 1) Download all the contents of the repository especially the datasets, and unzip the folder on your system.
